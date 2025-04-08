@@ -12,7 +12,7 @@ This is a full-stack MERN (MongoDB, Express, React, Node.js) web application for
 - [License](#license)
 
 ## Deployment
-The application is deployed and accessible online. You can access it at [Deployment Link](#).
+The application is deployed and accessible online. You can access it at [Deployment Link](https://earnest-queijadas-836ef0.netlify.app).
 
 ## Features
 - User-friendly survey form.
